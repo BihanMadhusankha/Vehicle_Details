@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942612550340",
+    "project_id": "vehicles-f5e0f",
+    "storage_bucket": "vehicles-f5e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942612550340:android:bb609911bc86d0c2a52f91",
+        "android_client_info": {
+          "package_name": "com.example.vehicles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Snf5NUBCQ_97q2WlIrRmHDcjqihgDhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vehicle Details</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="already_registered_login">Already registered? Login</string>
+    <string name="signup">SIGNUP</string>
+    <string name="login">LOGIN</string>
+    <string name="you_have_not_account_register">You have not account ? Register</string>
+    <string name="welcome_to_the_app">Welcome to the app!</string>
+    <string name="enter_owner_name">Enter owner name</string>
+    <string name="enter_vehicle_brand">Enter vehicle brand name</string>
+    <string name="enter_vehicle_rto">Enter vehicle rto</string>
+    <string name="save">SAVE</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="upload">UPLOAD</string>
+    <string name="welcome">WELCOME</string>
+    <string name="join_with_us">JOIN WITH US</string>
+    <string name="is_user">Is User</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="show_map">Show Map</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="vehicle_brand">Vehicle Brand</string>
+    <string name="vehicle_rto">Vehicle RTO</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="country">Country</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="search">Search</string>
+    <string name="vehicle_country">vehicle country</string>
+</resources>
